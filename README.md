@@ -1,3 +1,3 @@
 # test oc-github
-## **Titre 1**
-### ***Titre 2 ***
+## **Titre 1 en gras **
+### _Titre 2 en italique_ 
